@@ -23,10 +23,9 @@
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryamecse&layout=compact&title_color=d68c20&bg_color=000000&text_color=fed85b" /></p>
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soundaryamecse&show_icons=true&theme=great-gatsby" /></p>
     
-    <!--
-**soundaryamecse/soundaryamecse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+<!--**soundaryamecse/soundaryamecse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
