@@ -20,9 +20,12 @@
      <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
  </p>
  <h1></h1>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryamecse&layout=compact&title_color=d68c20&bg_color=000000&text_color=fed85b" /></p>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=soundaryamecse&show_icons=true&theme=great-gatsby" /></p>
-    
+ My Github Stats: 
+  <p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=soundaryamecse&theme=dark&show_icons=true&count_private=true" height="207px" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundaryamecse&theme=dark" height="207px" />
+
+</P>
     
 <!--**soundaryamecse/soundaryamecse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
