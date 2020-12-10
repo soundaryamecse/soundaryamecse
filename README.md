@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Soundarya :wave:</h1>
-<p align="center">Seeking for a developer role, where I can strive hard to expose my skills. I put up my dedication , proactiveness in the best possible way for the fulfillment of organizational goals.</p>
+<p align="center">Seeking for a Full stack developer role, where I can strive hard to expose my skills. I put up my dedication , proactiveness in the best possible way for the fulfillment of organizational goals.</p>
 <p align="center">View my portfolio <a href="https://soundaryamecse.github.io">soundaryamecse.github.io</a></p>
 <p align="center">
 <a href="https://twitter.com/SoundaryaM20"><img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" width="40" height="40" style="padding:10px;"/></a>
