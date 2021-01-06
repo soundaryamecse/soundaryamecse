@@ -2,22 +2,23 @@
 <p align="center">Seeking for a Full stack developer role, where I can strive hard to expose my skills. I put up my dedication , proactiveness in the best possible way for the fulfillment of organizational goals.</p>
 <p align="center">View my portfolio <a href="https://soundaryamecse.github.io">soundaryamecse.github.io</a></p>
 <p align="center">
-<a href="https://twitter.com/SoundaryaM20"><img src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" width="40" height="40" style="padding:10px;"/></a>
-<a href="https://www.linkedin.com/in/soundarya-m-29b346113"/><img src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" width="40" height="40" style="padding:10px;"/></a>
+<a href="https://twitter.com/SoundaryaM20"><img src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" width="40" height="40" style="padding:10px;"/></a>
+<a href="https://www.linkedin.com/in/soundarya-m-29b346113"/><img src="https://lh3.googleusercontent.com/proxy/T8k6MJ7J5t8taJBUC6COTS8wO3eKftoflwEXz0yPSVZp8JHGmhY-Q4lwZH1Ny3CXUA_PGJ-svXCiwG1xwAbEQRONqWu8If3xYsmVXaGSqzBtp7J5gTUOHxk4PJCjpb8ErQ" width="40" height="40" style="padding:10px;"/></a>
 </p>
 <h1></h1>
 <h3 align="center">Full Stack Developer With Tech Stack of</h3><br />
 <p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" alt="html5" width="40" height="40" style="padding:10px;"/>
- <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="padding:10px;"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding:10px;"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" style="padding:10px;"/> 
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="git" width="40" height="40" style="padding:10px;"/>
-  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="40" height="40" style="padding:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" style="padding:10px;"/>
+ <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" width="40" height="40" style="padding:10px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" style="padding:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="padding:10px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="40" height="40" style="padding:10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40" style="padding:10px;"/>
    <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="padding:10px;"/> 
-   <img src="https://devicon.dev/devicon.git/icons/express/express-original.svg" alt="express" width="40" height="40" style="padding:10px;"/> 
-    <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" style="padding:10px;"/> 
-     <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
+   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="express" width="40" height="40" style="padding:10px;"/> 
+    <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40" style="padding:10px;"/> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
  </p>
  <h1></h1>
  
