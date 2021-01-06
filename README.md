@@ -9,7 +9,7 @@
 <h3 align="center">Full Stack Developer With Tech Stack of</h3><br />
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40" style="padding:10px;"/>
- <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" width="40" height="40" style="padding:10px;"/> 
+ <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" width="40" height="40" style="padding:10px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" style="padding:10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="padding:10px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="40" height="40" style="padding:10px;"/>
