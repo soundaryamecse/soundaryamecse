@@ -13,12 +13,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" style="padding:10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40" style="padding:10px;"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="git" width="40" height="40" style="padding:10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40" style="padding:10px;"/>
-   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="padding:10px;"/> 
-   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="express" width="40" height="40" style="padding:10px;"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40" style="padding:10px;object-fit:contain"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40" style="padding:10px;"/> 
     <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40" style="padding:10px;"/> 
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
-  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding:10px;"/> 
  </p>
  <h1></h1>
  
