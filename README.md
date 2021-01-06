@@ -16,8 +16,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="react" width="40" height="40" style="padding:10px;object-fit:contain"/>
    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40" style="padding:10px;"/> 
     <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40" style="padding:10px;"/> 
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" style="padding:10px;"/> 
-  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding:10px;"/> 
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs" width="40" height="40" style="padding:10px;object-fit:contain"/> 
+  <img src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png" alt="express" width="40" height="40" style="padding:10px;object-fit:contain"/> 
  </p>
  <h1></h1>
  
